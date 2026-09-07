@@ -92,6 +92,19 @@ Agriculture-Analytics/
 ├── requirements.txt
 └── .gitignore
 
+## ▶️ How to Run
+
+### Google Colab
+
+1. Open the project notebook in Google Colab.
+2. Upload the agriculture dataset used in the notebook.
+3. Run the notebook cells from top to bottom.
+4. Review the analysis tables, visualizations, executive dashboard, and final business recommendations.
+
+### 🔗 Google Colab Notebook
+
+[Open Agriculture Analytics in Google Colab](https://colab.research.google.com/drive/1pDBMrQl8ZYDTbFLizx7ks69Jh2bSeD_D?usp=sharing)
+
 ### Local Jupyter
 
 Install the required packages:
@@ -99,7 +112,6 @@ Install the required packages:
 ```bash
 pip install -r requirements.txt
 
+
 jupyter notebook Agriculture_Analytics_Final.ipynb
-
-
 
