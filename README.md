@@ -29,6 +29,17 @@ The analysis combines exploratory data analysis, correlation analysis, grouped b
 - Data Visualization
 - Business Analytics
 
+## 📈 Executive Dashboard
+
+The final notebook contains an executive dashboard covering:
+
+- Average Profit by Crop
+- Average Yield by Irrigation Method
+- Average Profit by State
+- Average Profit by Crop × Irrigation Method
+
+![Agriculture Analytics Executive Dashboard](dashboard.png)
+
 ## 📊 Key Results
 
 | Metric | Finding |
@@ -58,58 +69,37 @@ The analysis combines exploratory data analysis, correlation analysis, grouped b
 7. **Revenue has the strongest correlation with profit (0.887)**, followed by Production (0.554) and Yield (0.490).
 8. Sugarcane and Chilli show strong profitability and margins, while Wheat, Rice, and Maize require closer investigation because their average profits are negative in the analyzed dataset.
 
-## 📈 Dashboard
-
-The final notebook contains an executive dashboard covering:
-
-- Average Profit by Crop
-- Average Yield by Irrigation Method
-- Average Profit by State
-- Average Profit by Crop × Irrigation Method
-
 ## 💡 Final Business Recommendation
 
-Farm-level decisions should balance **profitability, yield, and water efficiency**. High-performing crop and irrigation combinations should be prioritized, while low-profit crops should be investigated for production costs, market pricing, and resource allocation.
+Farm-level decisions should balance **profitability, yield, and water efficiency**.
+
+High-performing crop and irrigation combinations should be prioritized, while low-profit crops should be investigated for production costs, market pricing, and resource allocation.
 
 ## 📁 Project Structure
 
+```text
 Agriculture-Analytics/
 ├── Agriculture_Analytics_Final.ipynb
 ├── README.md
+├── dashboard.png
 ├── requirements.txt
 └── .gitignore
 
-## ▶️ How to Run
 
-### Google Colab
+### Step 2 — Scroll down
 
-1. Open `Agriculture_Analytics_Final.ipynb` in Google Colab.
-2. Upload the agriculture dataset used in the notebook.
-3. Run the notebook cells from top to bottom.
-4. Review the analysis tables, visualizations, dashboard, and final business recommendations.
+After that, **do not add anything else yet**.
 
-### Local Jupyter
+Scroll down and look for the **Commit changes** button.
 
-```bash
-pip install -r requirements.txt
-jupyter notebook Agriculture_Analytics_Final.ipynb
-```
+If you are editing `README.md` directly on GitHub:
 
-## 🔗 Original Google Colab
+1. Click **Commit changes**.
+2. Keep **Commit directly to the `main` branch** selected.
+3. Commit message can be:
+   **Improve README documentation**
+4. Click **Commit changes**.
 
-https://colab.research.google.com/drive/1pDBMrQl8ZYDTbFLizx7ks69Jh2bSeD_D?usp=sharing
+Then send me a screenshot.
 
-## 👤 Portfolio Use
-
-This project demonstrates practical skills in:
-
-- Data cleaning and validation
-- Exploratory data analysis
-- Pandas groupby and aggregation
-- Pivot tables
-- Correlation analysis
-- Data visualization
-- KPI analysis
-- Profitability analysis
-- Business insight generation
-- Executive dashboard creation
+**Don't change anything else yet. I'll guide you one step at a time.**
