@@ -84,7 +84,7 @@ High-performing crop and irrigation combinations should be prioritized, while lo
 
 ## 📁 Project Structure
 
-```text
+
 Agriculture-Analytics/
 ├── Agriculture_Analytics_Final.ipynb
 ├── README.md
@@ -109,9 +109,26 @@ Agriculture-Analytics/
 
 Install the required packages:
 
-```bash
+
 pip install -r requirements.txt
 
 jupyter notebook Agriculture_Analytics_Final.ipynb
+
+
+### Then
+
+1. **Commit changes** on GitHub.
+2. Do **not** change your Colab.
+3. Do **not** run `pip install` in Colab.
+4. Do **not** create a new Colab.
+5. Do **not** rename your dataset.
+
+After committing, **open the normal repository page** and check that you can see:
+- 🖼️ Dashboard image
+- 🔗 Google Colab link
+- ▶️ How to Run
+- 📁 Project Structure
+
+Send me that screenshot, and I'll check the final GitHub README before we move to anything else.
 
 
