@@ -73,21 +73,20 @@ Farm-level decisions should balance **profitability, yield, and water efficiency
 
 ## 📁 Project Structure
 
-```text
 Agriculture-Analytics/
-├── README.md
 ├── Agriculture_Analytics_Final.ipynb
-├── data/
-│   └── seasonal_agriculture_performance_dataset.csv
-├── images/
-│   └── dashboard.png
-└── requirements.txt
-```
+├── README.md
+├── requirements.txt
+└── .gitignore
 
 ## ▶️ How to Run
 
 ### Google Colab
-Upload the notebook and dataset to Google Colab, then run the notebook from top to bottom.
+
+1. Open `Agriculture_Analytics_Final.ipynb` in Google Colab.
+2. Upload the agriculture dataset used in the notebook.
+3. Run the notebook cells from top to bottom.
+4. Review the analysis tables, visualizations, dashboard, and final business recommendations.
 
 ### Local Jupyter
 
