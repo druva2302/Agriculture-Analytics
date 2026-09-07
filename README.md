@@ -61,12 +61,19 @@ The final notebook contains an executive dashboard covering:
 ## 🔎 Major Business Insights
 
 1. **Sugarcane is the strongest crop by average profitability**, with average profit of ₹817,187.99 per farm and average yield of 46.94 tonnes/ha.
+
 2. **Drip irrigation has the highest average yield and average profit** among the analyzed irrigation methods.
+
 3. **Rainfed irrigation has the highest water-efficiency metric**, so profitability and resource efficiency should be considered together rather than using a single KPI.
+
 4. **Punjab has the highest average profit among the analyzed states.**
+
 5. **Gujarat + Sugarcane + Drip** is the strongest reliable state–crop–irrigation combination by profit margin at 70.15%.
+
 6. **Nitrogen has the strongest listed positive correlation with yield among the agricultural inputs analyzed.**
+
 7. **Revenue has the strongest correlation with profit (0.887)**, followed by Production (0.554) and Yield (0.490).
+
 8. Sugarcane and Chilli show strong profitability and margins, while Wheat, Rice, and Maize require closer investigation because their average profits are negative in the analyzed dataset.
 
 ## 💡 Final Business Recommendation
@@ -84,22 +91,3 @@ Agriculture-Analytics/
 ├── dashboard.png
 ├── requirements.txt
 └── .gitignore
-
-
-### Step 2 — Scroll down
-
-After that, **do not add anything else yet**.
-
-Scroll down and look for the **Commit changes** button.
-
-If you are editing `README.md` directly on GitHub:
-
-1. Click **Commit changes**.
-2. Keep **Commit directly to the `main` branch** selected.
-3. Commit message can be:
-   **Improve README documentation**
-4. Click **Commit changes**.
-
-Then send me a screenshot.
-
-**Don't change anything else yet. I'll guide you one step at a time.**
